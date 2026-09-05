@@ -1,0 +1,72 @@
+body{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    background-color: #010525fc;
+}
+
+.card{
+    width: 470px;
+    height: 290px;
+    align-self: center;
+    justify-self: center;
+    background-color: rgba(247, 247, 60, 0.744);
+    border-radius: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+    border: #F7D6D0 0.5px solid;
+    padding: 15px;
+}
+
+.in{
+    background-color: #05193d;
+    width: 420px;
+    height: 240px;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    font-family: 'Roboto' , sans-serif;
+    color: rgb(255, 255, 189);
+    border: #db5841 1px solid;
+    box-shadow: 5px 5px 5px #db5841;
+    padding: 15px;
+}
+
+.g{
+    align-items: center;
+    justify-content: center;
+    color: rgb(231, 231, 140);
+    font-family: 'Ubuntu';
+    align-self: center;
+    justify-self: center;
+    background-color: rgba(48, 78, 129, 0.353);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.btn{
+    align-self: center;
+    justify-self: center;
+    display: flex;
+    width: 140px;
+    height: 60px;
+    border-radius: 10px;
+    padding: 2px;
+    background-color: rgb(255, 255, 111);
+    color: #05193d;
+    font-family: 'Ubuntu';
+}
+
+.b{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.btn img{
+    width: 100px;
+    height: 80px;
+}
